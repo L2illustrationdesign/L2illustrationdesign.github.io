@@ -1,3 +1,7 @@
+.site-title,  /* please for the life of you just work*/
+header h1 {
+  display: none !important;
+}
 header, footer {
   display: none;
 }
