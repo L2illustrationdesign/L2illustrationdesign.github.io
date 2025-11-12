@@ -1,6 +1,7 @@
-<p align="center">Linda Leonard | Customer Samples</p>
 <p align="center">
-  
+  <br/><br/>
+  <img src="https://github.com/L2illustrationdesign/L2illustrationdesign.github.io/blob/main/web banner L2.jpg?raw=true" width="1210"/>
+  <br/><br/>
   <img src="https://github.com/L2illustrationdesign/L2illustrationdesign.github.io/blob/main/LL_website-images_Nov2025 1.jpg?raw=true" width="2420"/>
 
   <img src="https://github.com/L2illustrationdesign/L2illustrationdesign.github.io/blob/main/LL_website-images_Nov2025 2.jpg?raw=true" width="2420"/>
