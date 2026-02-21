@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url('../assets/AvenirLTStd-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body{
+    font-family: 'Avenir', serif;
+    font-size: 1.9em;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.container{
+    transform: translateY(-2.5em);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.links{
+    text-align: center;
+    letter-spacing: -2%;
+    line-height: 3em;
+    text-decoration: none;
+    color: #000000;
+    transform: translateY(-12em);
+}
+
+.banner{
+    display: flex;
+    scale: 75%;
+}
